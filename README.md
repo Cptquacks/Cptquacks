@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/Cptquacks">GitHub</a> •
   <a href="https://furokawa-dev-homepage.onrender.com/">Website</a> •
-  <a href="mailto:zgenshinzgenshin@gmail.com">Email</a>
+  <a href="mailto:zgenshinzgenshin@gmail.com">zgenshinzgenshin@gmail.com</a>
 </p>
 
 ---
