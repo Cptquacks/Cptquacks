@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/Cptquacks">GitHub</a> •
   <a href="https://furokawa-dev-homepage.onrender.com/">Website</a> •
-  <a href="mailto:zgenshinzgenshin@gmail.com">zgenshinzgenshin@gmail.com</a>
+  <a href="mailto:zgenshinzgenshin@gmail.com">Email</a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 💻 I'm a **Full Stack Developer**.
 - 🌱 Currently learning more **low-level languages** like **Rust**.
 - 🧠 I enjoy building **offline-first**, **privacy-focused**, and **gamified** applications.
-- 📫 How to reach me: <a href="mailto:zgenshinzgenshin@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto:zgenshinzgenshin@gmail.com">zgenshinzgenshin@gmail.com</a>
 
 ---
 
